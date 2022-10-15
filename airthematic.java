@@ -8,6 +8,8 @@ System.out.println("enter number:");
 a=obj.nextDouble();
 System.out.println("enter number:");
 b=obj.nextDouble();
+system.out.println("enter number:");
+  
 
 
 
