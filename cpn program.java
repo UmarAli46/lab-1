@@ -4,7 +4,7 @@ import java.util.*;
         double a,b,cpn;
         int c;
         Scanner obj=new Scanner(System.in);
-        System.out.println("enter matriculation percentage ");
+        System.out.println("enter matriculation percentage 100%");
         a=obj.nextInt();
         System.out.println("enter intermediate percentage ");
         b=obj.nextInt();
